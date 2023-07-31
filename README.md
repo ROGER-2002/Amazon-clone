@@ -1,2 +1,2 @@
 # Amazon-clone
-This is an Amazon Clone project made from HTML and CSS.
+This is an Amazon Clone project made in HTML and CSS.
